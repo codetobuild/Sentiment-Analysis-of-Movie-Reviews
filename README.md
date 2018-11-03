@@ -1,2 +1,2 @@
-# Movie-Rating-Prediction
-IMDB Movie Rating Prediction
+# Sentiment Analysis of Movie Reviews
+Movie Rating Prediction
